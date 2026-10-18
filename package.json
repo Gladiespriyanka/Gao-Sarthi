@@ -1,0 +1,1 @@
+{"name":"gaon-saathi","version":"1.0.0","description":"Rural education and livelihood platform MVP","scripts":{"start":"npx http-server . -p 5500 -c-1 -o"}}
